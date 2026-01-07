@@ -1,0 +1,75 @@
+# Gradle files
+.gradle/
+build/
+*.gradle
+gradle.properties
+
+# Android Studio
+.idea/
+.idea/**
+*.iml
+*.iws
+*.ipr
+*.apk
+*.ap_
+*.dex
+*.class
+bin/
+gen/
+out/
+local.properties
+
+# Android specific
+.DS_Store
+*.swp
+*~
+*.sublime-workspace
+*.sublime-project
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Build artifacts
+target/
+dist/
+release/
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+
+# IDE files
+.vscode/
+.classpath
+.project
+.settings/
+nbproject/
+
+# OS specific
+.DS_Store
+Thumbs.db
+.directory
+
+# AndroidStudio
+.gradle
+local.properties
+/captures
+.externalNativeBuild
+.cxx/
+
+# Kotlin specific
+*.kt.bak
+*.kexe
+
+# Firebase
+google-services.json
+
+# Keys and secrets
+*.keystore
+*.jks
+*.pem
+*.key
+*.pub
